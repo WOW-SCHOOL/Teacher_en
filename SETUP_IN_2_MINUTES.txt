@@ -1,0 +1,12 @@
+WOW SCHOOL — automatic submission without Google Apps Script
+
+1. Open: https://web3forms.com/
+2. Enter the email: wow.school.english@gmail.com
+3. Confirm it and copy the Access Key.
+4. Open the config.js file.
+5. Find the line:
+   window.WOW_WEB3FORMS_ACCESS_KEY = "";
+6. Paste the key between the quotation marks.
+7. Upload the files to GitHub Pages, replacing the previous version.
+
+After that, the teacher clicks “Submit application,” and the full application is automatically sent to wow.school.english@gmail.com.
